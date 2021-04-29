@@ -6,6 +6,7 @@
   "author": "<asiazmudziak@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "electron": "5.0.6"
+    "electron": "5.0.6",
+    "express": "4.17.1"
   }
 }
