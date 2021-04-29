@@ -1,0 +1,11 @@
+{
+  "name": "express-hello",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AsiaZmudziak/express-hello.git",
+  "author": "<asiazmudziak@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "5.0.6"
+  }
+}
